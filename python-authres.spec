@@ -9,7 +9,7 @@ Summary:	Authentication Results Header Module
 Summary(pl.UTF-8):	Moduł nagłówków Authentication Results
 Name:		python-%{module}
 Version:	1.2.0
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/a/authres/%{module}-%{version}.tar.gz
